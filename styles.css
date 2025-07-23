@@ -1,0 +1,34 @@
+:root {
+  --Purple-600: hsl(246, 80%, 60%);
+  --Orange-300: hsl(15, 100%, 70%); /* work */
+  --Blue-300: hsl(195, 74%, 62%); /* play */
+  --Pink-400: hsl(348, 100%, 68%); /* study */
+  --Green-400: hsl(145, 58%, 55%); /* exercise */
+  --Purple-700: hsl(264, 64%, 52%); /* social */
+  --Yellow-300: hsl(43, 84%, 65%); /* self care */
+  --Navy-950: hsl(226, 43%, 10%);
+  --Navy-900: hsl(235, 46%, 20%);
+  --Purple-500: hsl(235, 45%, 61%);
+  --Navy-200: hsl(236, 100%, 87%);
+}
+
+html {
+  font-family: "Roboto", serif;
+}
+
+body {
+  background-color: var(--Navy-950);
+  color: white;
+}
+
+#report-for {
+  color: var(--Navy-200);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
