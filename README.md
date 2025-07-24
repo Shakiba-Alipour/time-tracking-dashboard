@@ -4,6 +4,6 @@ This is a solution to the [Time tracking dashboard challenge on Frontend Mentor]
 
 ## Live Version
 
-You can check out the live version [here](https://github.com/Shakiba-Alipour/Time-Tracking-Dashboard)
+You can check out the live version [here](https://shakiba.dev/Time-Tracking-Dashboard)
 
-![](./design/desktop-design.jpg)
+![](./preview.jpg)
